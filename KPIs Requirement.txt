@@ -1,0 +1,15 @@
+Demographic KPIs
+1.Average Age of individuals.
+2.Gender distribution (% Male, Female, Other).
+
+Health Indicators
+1.Average BMI and BMI Category Distribution (e.g., Underweight, Normal, Overweight, Obese).
+2.Chronic Disease Prevalence (% of people with chronic diseases).
+3.Average Sleep Duration across different age groups or genders.
+4.Average Stress Level by gender, age group, or smoker status.
+
+Lifestyle & Habits KPIs
+1.Smoking Rate (% smokers vs. non-smokers).
+2.Exercise Frequency Analysis (% who exercise daily, weekly, never, etc.).
+3.Diet Quality Breakdown (% Poor, Good, Excellent).
+4.Alcohol Consumption Patterns (% None, Low, Moderate, High).
